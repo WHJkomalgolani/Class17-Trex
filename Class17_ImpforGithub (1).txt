@@ -1,0 +1,2 @@
+You cannot upload blank file on github by drag and drop.
+You can do it via gitbash window.
